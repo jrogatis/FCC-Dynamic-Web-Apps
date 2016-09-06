@@ -1,0 +1,44 @@
+{
+  "name": "Camper Full Stack Projects",
+  "version": "1.0.1",
+  "description": "all app for the FCC Full Stack certificate.",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrogatis/camper-full-stack-projects"
+  },
+  "homepage": "http://www.metaconexao.com.br/",
+  "bugs": "",
+  "keywords": [
+    "MongoDB",
+    "Mongoose",
+    "full stack",
+    "Express",
+    "Node",
+    "javascript",
+    "boilerplate"
+  ],
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Jean Philip de Rogatis",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "dotenv": "^1.2.0",
+    "express": "^4.12.4",
+    "express-session": "^1.11.3",
+    "mongoose": "^4.1.0",
+    "passport": "^0.3.0",
+    "passport-github": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-nodemon": "^2.1.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.7",
+    "gulp-watch": "^4.3.9"
+  }
+}
