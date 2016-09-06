@@ -1,11 +1,11 @@
 {
-  "name": "Camper Full Stack Projects",
+  "name": "Camper-Full-Stack-Projects",
   "version": "1.0.1",
   "description": "all app for the FCC Full Stack certificate.",
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jrogatis/camper-full-stack-projects"
+    "url": "git+https://github.com/jrogatis/FCC-Dynamic-Web-Apps"
   },
   "homepage": "http://www.metaconexao.com.br/",
   "bugs": "",
